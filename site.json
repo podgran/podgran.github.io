@@ -1,0 +1,55 @@
+{
+  "aviso": "Entramos no ar em 2027 · siga o perfil e ative as notificações",
+  "youtube": "https://www.youtube.com/channel/UC3OTwEWFGBklPuUf4mWl8Bw",
+  "episodios": [],
+  "novidades": [
+    {
+      "tag": "Aviso",
+      "titulo": "Entramos no ar em 2027",
+      "texto": "A contagem regressiva começou. Siga o @p0dgran no Instagram e ative as notificações do canal no YouTube para saber quando o PODGRAN estreia."
+    },
+    {
+      "tag": "Entrevista",
+      "titulo": "PODGRAN na MostraSulF",
+      "texto": "Fizemos uma entrevista na MostraSulF, a Feira de Ciências, Tecnologia, Saberes Tradicionais e Inovação do Sul Fluminense. A feira reúne projetos de estudantes de escolas públicas e privadas da região, e a primeira edição foi em Volta Redonda, em outubro de 2025.",
+      "link": "https://www.even3.com.br/e/mostrasulf2025-595063",
+      "linkTexto": "Saiba mais sobre a MostraSulF"
+    },
+    {
+      "tag": "Entrevista",
+      "titulo": "Reunião Regional da Seeduc sobre Ensino Integral",
+      "texto": "Levamos o PODGRAN para a Reunião Regional da Seeduc, que tratou do Ensino Integral, e gravamos uma entrevista por lá."
+    }
+  ],
+  "equipe": [
+    {
+      "nome": "Fletcher",
+      "papel": "Idealizador e apresentador",
+      "texto": "Chegou à escola, conheceu a história do estúdio e colocou o PODGRAN em prática. Apresenta o De Frente com o Fletcher."
+    },
+    {
+      "nome": "Cláudia",
+      "papel": "Diretora",
+      "texto": "Teve a ideia do estúdio de podcast junto com o professor de História e apoia o PODGRAN desde o começo."
+    },
+    {
+      "nome": "Professor de História",
+      "papel": "Idealização",
+      "texto": "Pensou o estúdio com a diretora Cláudia, muito antes de o PODGRAN ir ao ar."
+    },
+    {
+      "nome": "Alunos e professores",
+      "papel": "Convidados e participantes",
+      "texto": "O PODGRAN é feito de conversa. Cada episódio nasce da participação de quem estuda e de quem ensina na escola."
+    }
+  ],
+  "parceiros": [],
+  "_como_editar": {
+    "aviso": "Texto da faixa na página inicial. Deixe vazio (\"\") para esconder a faixa.",
+    "youtube": "Link do canal. Usado nos botões 'Ir ao canal'.",
+    "episodios": "Lista de episódios. Cada item: {\"programa\":\"fletcher\" | \"livro\" | \"pod\",\"titulo\":\"Nome do episódio\",\"link\":\"https://youtube.com/...\"}",
+    "novidades": "Cada item: {\"tag\":\"Aviso\" | \"Entrevista\" | \"Episódio\",\"titulo\":\"...\",\"texto\":\"...\",\"data\":\"opcional\",\"link\":\"opcional\",\"linkTexto\":\"opcional\"}. Itens com tag \"Entrevista\" também aparecem na página inicial.",
+    "equipe": "Cada item: {\"nome\":\"...\",\"papel\":\"...\",\"texto\":\"...\"}",
+    "parceiros": "Cada item: {\"nome\":\"...\",\"link\":\"opcional\"}"
+  }
+}
